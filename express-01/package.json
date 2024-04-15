@@ -5,14 +5,15 @@
   "main": "index.js",
   "scripts": {
     "start": "nodemon --exec babel-node src/index.js",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "vercel-build": "echo hello"
   },
   "keywords": [
     "expressjs",
     "babel",
     "nodejs"
   ],
-  "author": "Márcio Bueno <marcio.bueno@unicap.br> (https://marciobueno.com/)",
+  "author": "Patrícia ",
   "license": "MIT",
   "devDependencies": {
     "@babel/core": "^7.24.0",
