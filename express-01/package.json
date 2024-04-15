@@ -14,7 +14,7 @@
     "nodejs"
   ],
   "include":[
-    "../api/*.ts"
+    "../api/*.js"
   ],
   "author": "Patrícia Ester",
   "license": "MIT",
