@@ -66,4 +66,6 @@ const createUsersWithMessages = async () => {
       include: [models.Message],
     }
   );
-};
+
+};  
+export default app 
